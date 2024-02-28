@@ -39,7 +39,7 @@ public class Exercicio03_Swicht {
         	 preco = (float) 12.00;
             break;
         case 5:
-        	NomeDoProduto = "Refrigerante";
+        	NomeDoProduto = "Coquinha gelada";
         	 preco = (float) 8.00;
             break;
         case 6:
