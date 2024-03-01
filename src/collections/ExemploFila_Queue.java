@@ -29,11 +29,11 @@ public class ExemploFila_Queue {
 		// Criando a Collection de Iteração
 		Iterator<Integer> iterator = fila.iterator();
 		
-		while(x.hasNext()) {
+	
 		
-		}
-		}
 		
+		
+	
 		
 		
 		
