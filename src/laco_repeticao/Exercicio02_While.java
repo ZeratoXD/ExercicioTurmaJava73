@@ -25,7 +25,11 @@ public class Exercicio02_While {
 				maior50++;
 				
 			}
+			
+			System.out.println("Digite uma idade: ");
+		
 		}
+		
 
 		System.out.println(" O total de pessoas menores de 21 anos: " + menor21);
 		System.out.println("O total de pessoas maiores de 50 anos: " + maior50);

@@ -1,5 +1,7 @@
 package exercicios_complementar;
 
+import java.util.Scanner;
+
 public class e4 {
 
 	public static void main(String[] args) {
