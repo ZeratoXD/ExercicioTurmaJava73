@@ -7,7 +7,7 @@ public class Interativo_Condicional {
 	public static void main(String[] args) {
 		Scanner leia = new Scanner(System.in);
 				
-            int x,y;
+            int x,y = 0;
             
             System.out.println("Digite um valor para X");
             x = leia.nextInt();
@@ -20,10 +20,6 @@ public class Interativo_Condicional {
      		}else if (x==y) {}
      			System.out.println("Não tem maior");
      	
-     			else {
-     				System.out.println("Y maior que X");
-		
-	 }
-
+     		
    }
  }

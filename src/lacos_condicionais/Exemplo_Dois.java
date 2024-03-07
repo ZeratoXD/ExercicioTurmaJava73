@@ -14,11 +14,7 @@ public class Exemplo_Dois {
 			System.out.println("Não tem maior");
 	
 	} 
-	else {
-		
-				System.out.println("Y maior que X");
-	}
+	
 	
 }
-	} 
-
+	
